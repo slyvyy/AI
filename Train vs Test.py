@@ -1,3 +1,6 @@
+# my program takes in input data to learn and calculate coeffiecients to 
+# figure out the price of test data through linear regression and least squares
+
 import numpy as np
 from io import StringIO
 
